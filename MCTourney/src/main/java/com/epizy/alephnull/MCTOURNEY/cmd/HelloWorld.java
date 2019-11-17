@@ -13,7 +13,7 @@ public class HelloWorld implements CommandExecutor {
 	
 	public HelloWorld(App running) {
 		plugin = running;
-		plugin.getCommand("helloworld").setExecutor(this);
+		plugin.getCommand("HelloWorld").setExecutor(this);
 	}
 	
 	@Override
