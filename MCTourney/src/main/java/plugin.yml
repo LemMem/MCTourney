@@ -1,0 +1,9 @@
+name: MCToureny
+version: 0.1
+authors: [AlephNull]
+description: Simple tournament manager plugin for Spigot
+main: com.epizy.alephnull.MCTOURNEY.App
+
+commands:
+   HelloWorld:
+       description: Hello!
