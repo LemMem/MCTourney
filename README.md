@@ -6,4 +6,4 @@ Make sure you have the JDK and Maven, and simply run
 `build.bat`.
 
 ### Mac and Linux
-I am not fluent in Linux and Mac, but figure out how to install the JDK and Maven, and use 'mvn package' in the root directory.
+I am not fluent in Linux and Mac, but figure out how to install the JDK and Maven, and run `mvn package` from the command line in the root directory.
